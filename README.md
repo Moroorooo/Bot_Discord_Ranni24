@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
 
 # JMusicBot
@@ -58,3 +59,23 @@ Please see the [Setup Page](https://jmusicbot.com/setup) to run this bot yoursel
 
 ## Editing
 This bot (and the source code here) might not be easy to edit for inexperienced programmers. The main purpose of having the source public is to show the capabilities of the libraries, to allow others to understand how the bot works, and to allow those knowledgeable about java, JDA, and Discord bot development to contribute. There are many requirements and dependencies required to edit and compile it, and there will not be support provided for people looking to make changes on their own. Instead, consider making a feature request (see the above section). If you choose to make edits, please do so in accordance with the Apache 2.0 License.
+=======
+# Ranni24
+
+<div style="float: right; margin: 10px;">
+  <img src="https://imgur.com/yKVP66Q.jpg" alt="Ranni" width="200"/>
+</div>
+
+
+Source code sẽ được update trong thời gian tới vì còn đang trong giai đoạn thử nghiệm.
+
+## Cài Đặt
+
+null
+```bash
+# Cài đặt các dependencies
+npm install
+
+# Chạy ứng dụng
+npm start
+>>>>>>> c0de1ca2b846ab64be533cb894d03f98ff7e060c
