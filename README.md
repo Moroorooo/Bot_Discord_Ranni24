@@ -1,6 +1,9 @@
 # Ranni24
 
-![Ranni the Civis](https://imgur.com/yKVP66Q.jpg)
+<div style="float: right; margin: 10px;">
+  <img src="https://imgur.com/yKVP66Q.jpg" alt="Ranni" width="200"/>
+</div>
+
 
 Source code sẽ được update trong thời gian tới vì còn đang trong giai đoạn thử nghiệm.
 
