@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
+<img align="right" src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/KnbWIuK"  ><a href="//imgur.com/a/KnbWIuK">Ranni creator by moroorooo(triet24)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" height="200" width="200">
 # Ranni24
 
 A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
