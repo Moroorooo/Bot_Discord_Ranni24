@@ -3,7 +3,7 @@
 
 A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
 
-[![Setup]([http://i.imgur.com/VvXYp5j.png](https://drive.google.com/drive/u/1/folders/1ZfUiWi3ewbid2PB8m3RuNqHb8AhAdGfW))](https://jmusicbot.com/setup)
+[![Setup]([[http://i.imgur.com/VvXYp5j.png](https://drive.google.com/drive/u/1/folders/1ZfUiWi3ewbid2PB8m3RuNqHb8AhAdGfW)](https://drive.google.com/drive/u/1/folders/1ZfUiWi3ewbid2PB8m3RuNqHb8AhAdGfW))](https://jmusicbot.com/setup)
 
 ## Features
   * Easy to run (just make sure Java is installed, and run!)
